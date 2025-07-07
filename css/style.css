@@ -109,7 +109,7 @@ a {
 
 .gradient-border:hover {
     flex-basis: 5%;
-    background: linear-gradient(147.77deg, #255299 23.85%, rgba(37, 82, 153, 0.2) 98.43%);
+    background: rgb(43, 161, 160, 0.5);
 }
 
 .grid-box .box-img {
