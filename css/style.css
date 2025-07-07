@@ -37,6 +37,7 @@ a {
 /* Home page */
 .home-wrapper {
     min-height: 100vh;
+    height: 100%;
     display: flex;
     flex-direction: column;
     justify-content: space-around;
