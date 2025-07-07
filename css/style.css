@@ -804,6 +804,12 @@ a {
     .summary-wraper .heading {
         font-size: 20px;
     }
+
+    .nav-pills,
+    .tab-content-wrapper {
+        flex: 0 0 100%;
+    }
+    
 }
 
 @media (max-width: 480px) {
